@@ -1,0 +1,9 @@
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\OptimalWibor07022018\OptimalWibor07022018\bin\Debug\OptimalWibor07022018.exe.config
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\OptimalWibor07022018\OptimalWibor07022018\bin\Debug\OptimalWibor07022018.exe
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\OptimalWibor07022018\OptimalWibor07022018\bin\Debug\OptimalWibor07022018.pdb
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\OptimalWibor07022018\OptimalWibor07022018\obj\Debug\OptimalWibor07022018.csprojResolveAssemblyReference.cache
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\OptimalWibor07022018\OptimalWibor07022018\obj\Debug\OptimalWibor07022018.Form1.resources
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\OptimalWibor07022018\OptimalWibor07022018\obj\Debug\OptimalWibor07022018.Properties.Resources.resources
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\OptimalWibor07022018\OptimalWibor07022018\obj\Debug\OptimalWibor07022018.csproj.GenerateResource.Cache
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\OptimalWibor07022018\OptimalWibor07022018\obj\Debug\OptimalWibor07022018.exe
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\OptimalWibor07022018\OptimalWibor07022018\obj\Debug\OptimalWibor07022018.pdb
